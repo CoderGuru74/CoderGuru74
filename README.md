@@ -1,3 +1,4 @@
+![logo](https://github.com/CoderGuru74/CoderGuru74/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm SHUBHAM RAJ</h1>
 <h3 align="center">A Glimpse into My Coding Endeavors</h3>
 
