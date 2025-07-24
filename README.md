@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderguru74&show_icons=true&locale=en&theme=radical" alt="coderguru74" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderguru74&theme=radical" alt="coderguru74"  </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderguru74&theme=radical" alt="coderguru74" /></p>
